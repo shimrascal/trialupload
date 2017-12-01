@@ -1,2 +1,133 @@
-# trialupload
-tryrtryrtry
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/font-awesome.mid.css">
+	<title>Shim | Web Portfolio</title>
+</head>
+<body>
+<header id="main-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<h1 class="branding"><img src="images/hashim.png" style="max-height: 40px;"></h1>
+			</div>
+
+			<div class="col-md-4">
+				<ul class="nav nav-pills">
+
+					<li><a href="">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#projects">Projects</a></li>
+					<li><a href="#GetInTouch">Get in Touch</a></li>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+<section id="banner">
+	<h1 class="text-right">Hashim S. Rascal Jr. &nbsp&nbsp&nbsp&nbsp&nbsp</h1>
+	<h4 class="text-right">&lt;Web Developer&gt;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</h4>
+</section>
+
+
+
+
+
+<section id="makingthings">
+	<div class="container">
+		<h2><center><strong>Creating this site with this...</strong></center></h2>
+		<center><img src="images/htmlcss.png"></center>
+	</div>
+</section>
+
+
+
+
+
+
+
+<section id="about">
+	<div class="container">
+		<h2><center><strong>About</strong></center></h2>
+			<div class="col-md-3">
+				<img src="images/hashim1.png" height="500">
+			</div>
+			
+	</div>	
+</section><!-- section1 -->
+
+
+<section id="projects" class="page-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="text-center">Projects</h2>
+
+
+
+
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section id="GetInTouch" class="page-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+			<h2 class="text-center">Get in Touch</h2>
+			<p class="text-center"> Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch.
+				Set Internet Explorer as your default browser to get a fast, full-screen browser that’s perfect for touch. </p>
+				<form action="" method="post" id="contact-form">
+					<div class="input-group">
+						<label class="">Full Name</label>
+						<input type="text" name="fullname">
+					</div>
+					<div class="input-group">
+						<label class="">Email Address</label>
+						<input type="text" name="email">
+					</div>
+					<div class="input-group">
+						<label class="">Contact Number</label>
+						<input type="text" name="contact-num">
+					</div>
+					<div class="input-group">
+						<label class="">Message</label>
+						<textarea type="text" name="message"></textarea>
+					</div>
+				</form>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
+ 
+
+</body>
+</html>
